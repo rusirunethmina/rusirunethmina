@@ -32,7 +32,7 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <spanLaravel</span><br><br><br>
+        <span>Laravel</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
       </td>
       <td width="25%" align="center">
