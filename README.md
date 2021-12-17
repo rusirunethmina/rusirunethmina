@@ -51,7 +51,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
         <span>NoSql</span><br><br><br>
