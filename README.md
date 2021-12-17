@@ -37,7 +37,7 @@
       </td>
       <td width="25%" align="center">
         <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png">
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
