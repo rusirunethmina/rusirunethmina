@@ -32,8 +32,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <spanLaravel</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
       </td>
       <td width="25%" align="center">
         <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
