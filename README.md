@@ -58,12 +58,12 @@
         <img height="64px" src="https://e7.pngegg.com/pngimages/368/907/png-clipart-cosmos-db-document-oriented-database-microsoft-azure-nosql-microsoft-text-rectangle-thumbnail.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <span>Aws<span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <span>Boostrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
     </tr>
   </tbody>
