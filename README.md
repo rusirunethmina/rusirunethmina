@@ -65,6 +65,10 @@
         <span>Boostrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
+        <td width="25%" align="center">
+        <span>Vuetifyjs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
+      </td>
     </tr>
   </tbody>
 </table>
