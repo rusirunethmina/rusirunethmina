@@ -66,6 +66,24 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
     </tr>
+            <tr valign="top">
+      <td width="25%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NoSql</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Aws<span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Boostrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
