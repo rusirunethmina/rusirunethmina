@@ -72,7 +72,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
       </td>
       <td width="25%" align="center">
-        <span>NoSql</span><br><br><br>
+        <span>Lumen</span><br><br><br>
         <img height="64px" src="https://miro.medium.com/max/800/1*xjpFWCxnaa3FSUHlvQGZvA.png">
       </td>
     </tr>
