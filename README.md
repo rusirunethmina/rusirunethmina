@@ -10,6 +10,8 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
+## FULL 𝗦𝘁𝗮𝗰𝗸
+
 <table>
   <tbody>
     <tr valign="top">
