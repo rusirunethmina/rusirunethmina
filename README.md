@@ -81,11 +81,4 @@
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
-
------
-Credits: [xiaoluoboding](https://github.com/xiaoluoboding)
-
-Last Edited on: 25/12/2021
+Last Edited on: 20/05/2024
