@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 Founder of Codelus.io
 - 👯 I’m looking to collaborate on WEB Projects
 - 🤔 I’m looking for help with API (development)
 - 💬 Ask me about Peshawar (Tech's spike)
