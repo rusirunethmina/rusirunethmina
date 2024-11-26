@@ -2,8 +2,7 @@
 
 - 🌱 Founder of Codelus.io
 - 👯 Software Engineer 
-- 🤔 I’m looking for help with API (development)
-- 💬 Ask me about Peshawar (Tech's spike)
+- 🤔 Empowering Businesses with Innovative Software
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 - 😄 Pronouns: him/he
 
