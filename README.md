@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Founder of Codelus.io
-- 👯 I’m looking to collaborate on WEB Projects
+- 👯 Software Engineer 
 - 🤔 I’m looking for help with API (development)
 - 💬 Ask me about Peshawar (Tech's spike)
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
