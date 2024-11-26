@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 -->
 ----
 
-Credits: [UmairJibran](https://github.com/UmairJibran)
-Last Edited on: 31/08/2020
+Credits: [UmairJibran](https://github.com/rusirunethmina)
+Last Edited on: 26/11/2024
