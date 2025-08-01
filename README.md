@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Founder of Codelus.io
-- 👯 Software Engineer 
+- 👯 Software Engineer & DevOps
 - 🤔 Empowering Businesses with Innovative Software
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 - 😄 Pronouns: him/he
