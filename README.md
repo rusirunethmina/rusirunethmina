@@ -26,9 +26,9 @@ I'm **<Your Name>**, a passionate developer who loves building scalable and effi
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- 🌐 [Portfolio](https://yourwebsite.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rusiru-nethmina-360041203)  
+- 🐦 [Twitter](https://www.linkedin.com/in/rusiru-nethmina-360041203/)  
+- 🌐 [Portfolio](https://rusiru.site)  
 
 ---
 ✨ _Thanks for visiting my profile!_
